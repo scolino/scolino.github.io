@@ -18,6 +18,7 @@ Advisor info goes here.
 
 Project description goes here.
 
+Final report coming soon.
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
