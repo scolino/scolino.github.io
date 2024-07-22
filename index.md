@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-[<img src="{{ site.baseurl }}/images/E3092240-B0B1-443E-A202-5C98E2876938.JPG" alt="Constructocat by https://github.com/jasoncostello" style="width: 400px;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/E3092240-B0B1-443E-A202-5C98E2876938.JPG" alt="Me" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 Hello, I am Stefanie Colino, and welcome to my DREAM project! A little about me and how I ended up reseasrching CS curricular analytics: 
 
