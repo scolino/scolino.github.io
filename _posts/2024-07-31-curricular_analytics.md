@@ -3,7 +3,6 @@ layout: post
 title: What is Curricular Analytics and Why do We Care?
 ---
 
-## Why Curricular Analytics?
 The field of curricular analytics was born out of the idea that the progression within a university curriculum is cornerstone of a student's academic success. Imagine a curriculum where a student must pass one specific course in order complete any other course in the major. If a student struggles in that course, they are likely to be delayed in graduating or leave school altogether.  Overall, the field analyzes structural and instructional factors of a curriculum from a rigorous, analytic perspective. If researchers can identify bottle necks in curriculums, they can help guide university administrations on curricular reforms that positively influence student outcomes.
 
 ## Quantifying a Curriculum
