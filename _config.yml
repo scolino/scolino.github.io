@@ -9,7 +9,7 @@ name: Stefanie Colino
 description: DREAM Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "{{ site.baseurl }}/images/csedu.JPG"
+avatar: https://github.com/scolino/scolino.github.io/blob/main/images/csedu.jpg
 
 #
 # Flags below are optional
