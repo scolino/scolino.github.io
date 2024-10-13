@@ -14,7 +14,7 @@ The structural factors of a curriculum can be represented as a directed, acyclic
 In many STEM curriculums, courses have a pre-req structure that need to be completed in a specific order. Failure to complete a course in the sequence on time can delay students time to graduation since the remainder of the sequence is delayed by one term.  More formally, the delay factor for a given course is the number of course vertices in the longest path in the curriculum graph that passes through that vertex. The overall curriculum delay factor is the sum of the delay factor for each vertex.
 
 *Blocking Factor*:
-Blocking factor comes out of the idea that there are highly "important" classes in a curriculum. A highly important class arises from the fact that certain courses are pre-req courses to many other downstream courses in a curriculum. Therefore, the blocking factor measures the number of courses reachable from given course vertex. The overall curriculum blocking factor is the sum of the blocking factor for each vertex.
+Blocking factor measures the extent to which a course prevents a student from taking subsequent courses. The blocking factor for a course increases as the number of subsequent courses needing the course as a prereq ncreases.  Therefore, the blocking factor measures the number of courses reachable from given course vertex. The overall curriculum blocking factor is the sum of the blocking factor for each vertex.
 
 *Structural Complexity*:
 The final metric of overall structural complexity can be calculated from the above metrics.  For a curriculum's structural complexity, we can take an unweighted linear combination of the curriculum's overall blocking factor and overall delay factor. 
