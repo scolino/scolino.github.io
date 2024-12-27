@@ -3,9 +3,9 @@ layout: post
 title: Learnings and Next Steps
 ---
 
- The results of this study can be found on the blog post:
+ The results of this study can be found on the folowwing blog posts:
 
-[Initial Comparisions of Female Representation in ABET/non-ABET Curriculums](_posts/2024-08-12-overall-comparisons.md) 
+[Comparisions of Female Representation in ABET/non-ABET Curriculums](_posts/2024-08-12-overall-comparisons.md) 
 
  While the preliminary results of this study provide insight into the impact of ABET accredited curriculum on complexity and  representation of women, the study does not address why ABET accredited curriculum  tend to have higher complexity. I suspect that some of the increased complexity can be attributed to the math requirements of ABET accredidation.
 
