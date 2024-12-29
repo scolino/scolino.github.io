@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-[<img src="{{ site.baseurl }}/images/family.JPG" alt="Me" style="width: 300px;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/family_new.jpg" alt="Me" style="width: 300px;"/>]({{ site.baseurl }}/)
 
 Hello, I am Stefanie Colino! I live in Boston with my husband, 3 month old son, and 4-year old Cavapoo, Bruschi (yes, we are a Patriots family!). Welcome to my DREAM project! A little about my journey and how I ended up reseasrching CS curricular analytics: 
 
