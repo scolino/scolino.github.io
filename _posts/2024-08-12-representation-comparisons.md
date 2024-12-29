@@ -3,7 +3,7 @@ layout: post
 title: Representation of Women in ABET/non-ABET Curriculums
 ---
 
-We first analysed the representation of women for all schools. The below figure shows the distributions of the perentage of CS graduates who are women for ABET and Non-ABET schools.  
+We first analyzed the representation of women for all schools. The below figure shows the distributions of the percentage of CS graduates who are women for ABET and Non-ABET schools.  
 
 [<img src="{{ site.baseurl }}/images/all_schools_female_representation.png" alt="complexity_map" style="width: 300px;"/>]({{ site.baseurl }}/)
 
